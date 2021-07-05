@@ -28,3 +28,6 @@ D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\obj\Debug\net5.0\Planne
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\obj\Debug\net5.0\PlannerApp.Dal.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\obj\Debug\net5.0\ref\PlannerApp.Dal.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\obj\Debug\net5.0\PlannerApp.Dal.pdb
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\bin\Debug\net5.0\PlannerApp.Dal.runtimeconfig.json
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\bin\Debug\net5.0\PlannerApp.Dal.runtimeconfig.dev.json
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Dal\obj\Debug\net5.0\PlannerApp.Dal.genruntimeconfig.cache

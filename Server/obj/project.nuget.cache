@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tnNsL+2KFrCsy4qvdfbQ338ntMhiYiSb4jmlxY7waeLfvHi7cGzaVVyWeJh4tu6Y2EzSdTFuM0+NKJ/s7M4jGg==",
+  "dgSpecHash": "doXYSIBccmaaEXy5qIRMXZC4clOA+2puwtp/0pBpG9uugrrH4oaTD2pmACbcsb7MYeFs2QH4NJKLNX4za2vacw==",
   "success": true,
   "projectFilePath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Server\\PlannerApp.Server.csproj",
   "expectedPackageFiles": [

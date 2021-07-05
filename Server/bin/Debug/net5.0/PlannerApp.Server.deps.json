@@ -2194,6 +2194,8 @@
       "PlannerApp.Dal/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.0-preview.5.21301.9",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.0-preview.5.21301.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0-preview.5.21301.9",
           "PlannerApp.Models": "1.0.0"
         },
         "runtime": {
