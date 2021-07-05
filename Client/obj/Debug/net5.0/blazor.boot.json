@@ -210,14 +210,11 @@
       "PlannerApp.Dal.dll": "sha256-UUJNTIWF9owcORZuO9Wx\/WS4fPULHPA75hi4slFydes=",
       "PlannerApp.Models.dll": "sha256-e3YpWE9ABVU+V5n\/VZqHi8BYxHMBH0yw88UxwffOdg0=",
       "PlannerApp.Shared.dll": "sha256-wQEBPbf75UCKj5gvVy3dTGkRdZfA4S1RYK98bvGQNf4=",
-      "PlannerApp.Client.dll": "sha256-qHB3Vx7WT10NU8igTfJTQTjJYyHfVq+drkEJ93b7ab8="
+      "PlannerApp.Client.dll": "sha256-CiqmEK32\/Bke80cFx\/0cv1ywd8dHuJYU5rzxv48SdRo="
     },
     "lazyAssembly": null,
     "pdb": {
-      "PlannerApp.Dal.pdb": "sha256-kdsUjRd0AdgVt7Xgu\/taQSOvWXOyhmFTZ1aEMqfvDlw=",
-      "PlannerApp.Models.pdb": "sha256-Of7MvFmywOWjzjU6Kx7v9BbMYhyt5lDA3eagVYz9ROw=",
-      "PlannerApp.Shared.pdb": "sha256-UKshWPYSY5L2AXmbhu5ECPydNweu32uwzKxCfm4YRJQ=",
-      "PlannerApp.Client.pdb": "sha256-6nYoEDpNbFrkkdPLZYfq5PJc9A5q2Y8mc5Wdw3J5cHs="
+      "PlannerApp.Client.pdb": "sha256-\/FR2JDQmX5hlnIDNtxm+xL6h0CUDWfIKLPFW\/Pqk+0c="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-6gpSboPIzpxslj3G69YAnbCNj40a6VNSTGz1e+LH00M=",

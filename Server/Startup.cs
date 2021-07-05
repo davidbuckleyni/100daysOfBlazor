@@ -12,6 +12,7 @@ using Microsoft.EntityFrameworkCore.SqlServer;
 using Microsoft.Identity.Web;
 using PlannerApp.Dal;
 using System.Linq;
+using Planner.Services;
 
 namespace PlannerApp.Server
 {
@@ -31,6 +32,7 @@ namespace PlannerApp.Server
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddMicrosoftIdentityWebApi(Configuration.GetSection("AzureAd"));
             services.AddDbContext<PlannerDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<PlannerService>();
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

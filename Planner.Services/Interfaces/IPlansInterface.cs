@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Planner.Services.Interfaces
 {
-    interface IPlansInterface
+    public interface IPlansInterface
     {
 
         Task<List<Plans>> GetAllPlans();

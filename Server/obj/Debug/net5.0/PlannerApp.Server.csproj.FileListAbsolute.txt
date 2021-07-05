@@ -120,3 +120,8 @@ D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Ser
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\ref\PlannerApp.Server.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.pdb
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.genruntimeconfig.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\bin\Debug\net5.0\Humanizer.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\bin\Debug\net5.0\Planner.Services.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\bin\Debug\net5.0\Planner.Services.pdb
