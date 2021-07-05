@@ -1993,13 +1993,13 @@
     },
     "PlannerApp.Dal/1.0.0": {
       "type": "project",
-      "path": "../../PlannerApp.Dal/PlannerApp.Dal/PlannerApp.Dal.csproj",
-      "msbuildProject": "../../PlannerApp.Dal/PlannerApp.Dal/PlannerApp.Dal.csproj"
+      "path": "../PlannerApp.Dal/PlannerApp.Dal.csproj",
+      "msbuildProject": "../PlannerApp.Dal/PlannerApp.Dal.csproj"
     },
     "PlannerApp.Models/1.0.0": {
       "type": "project",
-      "path": "../../PlannerApp.Models/PlannerApp.Models/PlannerApp.Models.csproj",
-      "msbuildProject": "../../PlannerApp.Models/PlannerApp.Models/PlannerApp.Models.csproj"
+      "path": "../PlannerApp.Models/PlannerApp.Models.csproj",
+      "msbuildProject": "../PlannerApp.Models/PlannerApp.Models.csproj"
     },
     "PlannerApp.Shared/1.0.0": {
       "type": "project",
@@ -2057,11 +2057,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal\\PlannerApp.Dal.csproj": {
-              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal\\PlannerApp.Dal.csproj"
+            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal.csproj": {
+              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal.csproj"
             },
-            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models\\PlannerApp.Models.csproj": {
-              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models\\PlannerApp.Models.csproj"
+            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models.csproj": {
+              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models.csproj"
             },
             "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Shared\\PlannerApp.Shared.csproj": {
               "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Shared\\PlannerApp.Shared.csproj"

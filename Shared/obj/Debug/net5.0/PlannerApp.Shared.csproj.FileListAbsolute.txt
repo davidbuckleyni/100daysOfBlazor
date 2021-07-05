@@ -9,3 +9,4 @@ D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Sha
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\ref\PlannerApp.Shared.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.pdb
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.csproj.AssemblyReference.cache

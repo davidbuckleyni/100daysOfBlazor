@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "19usU4M29WD/wkcmAv2NHfc7OiI3VmZ0vuMh98sik8PdT0188/Dja4nwUduET1PP8HCE5ejP6hSjc4A9TnQg9g==",
+  "dgSpecHash": "1YwtAZ9ahCyX/XjZNf9lsK0nxKPPh8Mfs7URC4CxBW114zyoODl0VfUBjLwEktmHAKytjXEsgLdzDyBrTrn2wQ==",
   "success": true,
   "projectFilePath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Server\\PlannerApp.Server.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,7 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.0-preview.5.21301.9\\microsoft.entityframeworkcore.sqlserver.6.0.0-preview.5.21301.9.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0-preview.5.21301.5\\microsoft.extensions.caching.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0-preview.5.21301.5\\microsoft.extensions.caching.memory.6.0.0-preview.5.21301.5.nupkg.sha512",
-    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0-preview.5.21301.5\\microsoft.extensions.configuration.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0-preview.5.21301.5\\microsoft.extensions.configuration.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",

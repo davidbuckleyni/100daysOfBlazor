@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PlannerApp.Dal\PlannerApp.Dal\PlannerApp.Dal.csproj" />
-    <ProjectReference Include="..\..\PlannerApp.Models\PlannerApp.Models\PlannerApp.Models.csproj" />
+    <ProjectReference Include="..\PlannerApp.Dal\PlannerApp.Dal.csproj" />
+    <ProjectReference Include="..\PlannerApp.Models\PlannerApp.Models.csproj" />
     <ProjectReference Include="..\Shared\PlannerApp.Shared.csproj" />
   </ItemGroup>
 

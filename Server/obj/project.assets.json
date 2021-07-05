@@ -412,11 +412,11 @@
           "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll": {}
         }
       },
-      "Microsoft.Extensions.Configuration/6.0.0-preview.5.21301.5": {
+      "Microsoft.Extensions.Configuration/5.0.0": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0-preview.5.21301.5",
-          "Microsoft.Extensions.Primitives": "6.0.0-preview.5.21301.5"
+          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0",
+          "Microsoft.Extensions.Primitives": "5.0.0"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {}
@@ -2480,21 +2480,6 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Planner.Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.Extensions.Configuration": "6.0.0-preview.5.21301.5",
-          "PlannerApp.Dal": "1.0.0",
-          "PlannerApp.Models": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Planner.Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Planner.Services.dll": {}
-        }
-      },
       "PlannerApp.Client/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -3129,10 +3114,10 @@
         "microsoft.extensions.caching.memory.nuspec"
       ]
     },
-    "Microsoft.Extensions.Configuration/6.0.0-preview.5.21301.5": {
-      "sha512": "r3JqZncSnPqVU8HyYtlMiJQEjxA2pabluis6yxCKcqk6CK7NNfRYJ9AKHNPR0f2Z8f6n77nMjF3ZngAaQFFWWg==",
+    "Microsoft.Extensions.Configuration/5.0.0": {
+      "sha512": "LN322qEKHjuVEhhXueTUe7RNePooZmS8aGid5aK2woX3NPjSnONFyKUc6+JknOS6ce6h2tCLfKPTBXE3mN/6Ag==",
       "type": "package",
-      "path": "microsoft.extensions.configuration/6.0.0-preview.5.21301.5",
+      "path": "microsoft.extensions.configuration/5.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3143,8 +3128,10 @@
         "lib/net461/Microsoft.Extensions.Configuration.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
-        "microsoft.extensions.configuration.6.0.0-preview.5.21301.5.nupkg.sha512",
-        "microsoft.extensions.configuration.nuspec"
+        "microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
       ]
     },
     "Microsoft.Extensions.Configuration.Abstractions/6.0.0-preview.5.21301.5": {
@@ -8353,11 +8340,6 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Planner.Services/1.0.0": {
-      "type": "project",
-      "path": "../../Planner.Services/Planner.Services.csproj",
-      "msbuildProject": "../../Planner.Services/Planner.Services.csproj"
-    },
     "PlannerApp.Client/1.0.0": {
       "type": "project",
       "path": "../Client/PlannerApp.Client.csproj",
@@ -8365,13 +8347,13 @@
     },
     "PlannerApp.Dal/1.0.0": {
       "type": "project",
-      "path": "../../PlannerApp.Dal/PlannerApp.Dal/PlannerApp.Dal.csproj",
-      "msbuildProject": "../../PlannerApp.Dal/PlannerApp.Dal/PlannerApp.Dal.csproj"
+      "path": "../PlannerApp.Dal/PlannerApp.Dal.csproj",
+      "msbuildProject": "../PlannerApp.Dal/PlannerApp.Dal.csproj"
     },
     "PlannerApp.Models/1.0.0": {
       "type": "project",
-      "path": "../../PlannerApp.Models/PlannerApp.Models/PlannerApp.Models.csproj",
-      "msbuildProject": "../../PlannerApp.Models/PlannerApp.Models/PlannerApp.Models.csproj"
+      "path": "../PlannerApp.Models/PlannerApp.Models.csproj",
+      "msbuildProject": "../PlannerApp.Models/PlannerApp.Models.csproj"
     },
     "PlannerApp.Shared/1.0.0": {
       "type": "project",
@@ -8388,7 +8370,6 @@
       "Microsoft.Identity.Web >= 1.1.0",
       "Microsoft.Identity.Web.UI >= 1.1.0",
       "Microsoft.NETCore >= 5.0.2",
-      "Planner.Services >= 1.0.0",
       "PlannerApp.Client >= 1.0.0",
       "PlannerApp.Dal >= 1.0.0",
       "PlannerApp.Models >= 1.0.0",
@@ -8432,17 +8413,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\GitMaster\\Blazor\\PlannerApp\\Planner.Services\\Planner.Services.csproj": {
-              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\Planner.Services\\Planner.Services.csproj"
-            },
-            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal.csproj": {
-              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal.csproj"
-            },
-            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models.csproj": {
-              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models.csproj"
-            },
             "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Client\\PlannerApp.Client.csproj": {
               "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Client\\PlannerApp.Client.csproj"
+            },
+            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal.csproj": {
+              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Dal\\PlannerApp.Dal.csproj"
+            },
+            "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models.csproj": {
+              "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\PlannerApp.Models\\PlannerApp.Models.csproj"
             },
             "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Shared\\PlannerApp.Shared.csproj": {
               "projectPath": "D:\\GitMaster\\Blazor\\PlannerApp\\PlannerApp\\Shared\\PlannerApp.Shared.csproj"

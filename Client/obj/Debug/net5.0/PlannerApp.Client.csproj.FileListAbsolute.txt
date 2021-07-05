@@ -677,5 +677,5 @@ D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\tzCi+
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\IqQzxVe1.gz
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\kpsj3q88.gz
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\NnaWoX6c.gz
-D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\WkhE6J2u.gz
-D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\+lG6O6Bi.gz
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\M6XnPxVv.gz
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Client\obj\Debug\net5.0\build-gz\QAawBnxi.gz
