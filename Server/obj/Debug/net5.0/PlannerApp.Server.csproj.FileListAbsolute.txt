@@ -1,0 +1,9 @@
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.csproj.AssemblyReference.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.AssemblyInfoInputs.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.AssemblyInfo.cs
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.csproj.CoreCompileInputs.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.RazorAssemblyInfo.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Server\obj\Debug\net5.0\PlannerApp.Server.RazorAssemblyInfo.cs

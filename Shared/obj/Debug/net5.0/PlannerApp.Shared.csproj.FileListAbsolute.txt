@@ -1,0 +1,11 @@
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\bin\Debug\net5.0\PlannerApp.Shared.deps.json
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\bin\Debug\net5.0\PlannerApp.Shared.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\bin\Debug\net5.0\ref\PlannerApp.Shared.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\bin\Debug\net5.0\PlannerApp.Shared.pdb
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.AssemblyInfoInputs.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.AssemblyInfo.cs
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.csproj.CoreCompileInputs.cache
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\ref\PlannerApp.Shared.dll
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\Shared\obj\Debug\net5.0\PlannerApp.Shared.pdb
