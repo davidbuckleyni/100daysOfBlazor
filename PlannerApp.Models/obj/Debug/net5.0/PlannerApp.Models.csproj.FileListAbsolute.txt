@@ -20,3 +20,4 @@ D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Models\obj\Debug\net5.0\Pla
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Models\obj\Debug\net5.0\PlannerApp.Models.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Models\obj\Debug\net5.0\ref\PlannerApp.Models.dll
 D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Models\obj\Debug\net5.0\PlannerApp.Models.pdb
+D:\GitMaster\Blazor\PlannerApp\PlannerApp\PlannerApp.Models\obj\Debug\net5.0\PlannerApp.Models.csproj.AssemblyReference.cache
